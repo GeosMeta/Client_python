@@ -1,0 +1,351 @@
+2019-08-26 16:12:30,015 - tool - DEBUG - Logging configured
+2019-08-26 16:12:30,016 - tool - DEBUG - Logging configured
+2019-08-26 16:12:30,022 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 16:12:30,188 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%7Bgmdata.input_files%3A%7B%3A2%7D%7D%2C%7Bgmdata.output_files%3A%7B%3A1%7D%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 16:20:21,407 - tool - DEBUG - Logging configured
+2019-08-26 16:20:21,408 - tool - DEBUG - Logging configured
+2019-08-26 16:20:21,618 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 16:20:21,690 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%5B%7Bgmdata.input_files%3A%7B%3A2%7D%7D%2C%7Bgmdata.output_files%3A%7B%3A1%7D%7D%5D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 16:23:32,506 - tool - DEBUG - Logging configured
+2019-08-26 16:23:32,506 - tool - DEBUG - Logging configured
+2019-08-26 16:23:32,510 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 16:23:32,548 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%7B%22gmdata.input_files%22%3A%7B%22%24size%22%3A2%7D%7D%2C%7B%22gmdata.output_files%22%3A%7B%22%24size%22%3A1%7D%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 16:24:36,555 - tool - DEBUG - Logging configured
+2019-08-26 16:24:36,555 - tool - DEBUG - Logging configured
+2019-08-26 16:24:36,558 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 16:24:36,593 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%7B%22gmdata.input_files%22%3A%7B%22%24size%22%3A2%7D%7D%2C%7B%22gmdata.output_files%22%3A%7B%22%24size%22%3A1%7D%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 16:30:31,882 - tool - DEBUG - Logging configured
+2019-08-26 16:30:31,882 - tool - DEBUG - Logging configured
+2019-08-26 16:30:31,886 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 16:30:31,969 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22gmdata.input_files%22%3A%7B%22%24size%22%3A2%7D%7D%5D%7D HTTP/1.1" 200 34762
+2019-08-26 16:30:32,003 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 16:30:32,080 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22$and%22:[%7B%22project%22:%20%22P1%22%7D,%7B%22gmdata.input_files%22:%7B%22$size%22:2%7D%7D]%7D&page=2 HTTP/1.1" 200 33003
+2019-08-26 16:30:32,087 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 16:30:32,126 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22$and%22:[%7B%22project%22:%20%22P1%22%7D,%7B%22gmdata.input_files%22:%7B%22$size%22:2%7D%7D]%7D&page=3 HTTP/1.1" 200 6949
+2019-08-26 16:32:16,189 - tool - DEBUG - Logging configured
+2019-08-26 16:32:16,189 - tool - DEBUG - Logging configured
+2019-08-26 16:32:16,193 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 16:32:16,230 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22gmdata.input_files%22%3A%22%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 16:32:45,951 - tool - DEBUG - Logging configured
+2019-08-26 16:32:45,951 - tool - DEBUG - Logging configured
+2019-08-26 16:32:45,955 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 16:32:45,991 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22gmdata.input_files%22%3A%225a74a36432c87978b96baa10%22%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 16:33:29,836 - tool - DEBUG - Logging configured
+2019-08-26 16:33:29,836 - tool - DEBUG - Logging configured
+2019-08-26 16:33:29,839 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 16:33:29,876 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22gmdata.input_files%22%3A%7B%24includes%22%3A%225a74a36432c87978b96baa10%22%7D%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 16:34:25,717 - tool - DEBUG - Logging configured
+2019-08-26 16:34:25,717 - tool - DEBUG - Logging configured
+2019-08-26 16:34:25,721 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 16:34:25,754 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22gmdata.input_files%22%3A%7B%24elemMatch%22%3A%225a74a36432c87978b96baa10%22%7D%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 16:36:18,208 - tool - DEBUG - Logging configured
+2019-08-26 16:36:18,208 - tool - DEBUG - Logging configured
+2019-08-26 16:36:18,212 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 16:36:18,245 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22%7B%24elemMatch%22%3A%7B%22gmdata.input_files%22%3A%225a74a36432c87978b96baa10%22%7D%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 16:37:06,309 - tool - DEBUG - Logging configured
+2019-08-26 16:37:06,309 - tool - DEBUG - Logging configured
+2019-08-26 16:37:06,314 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 16:37:06,350 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%7B%22%24elemMatch%22%3A%7B%22gmdata.input_files%22%3A%225a74a36432c87978b96baa10%22%7D%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 16:38:13,084 - tool - DEBUG - Logging configured
+2019-08-26 16:38:13,084 - tool - DEBUG - Logging configured
+2019-08-26 16:38:13,088 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 16:38:13,151 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22%24elemMatch%22%3A%7B%22gmdata.input_files%22%3A%225a74a36432c87978b96baa10%22%7D%7D%5D%7D HTTP/1.1" 500 290
+2019-08-26 16:56:07,707 - tool - DEBUG - Logging configured
+2019-08-26 16:56:07,707 - tool - DEBUG - Logging configured
+2019-08-26 16:56:07,711 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 16:56:07,747 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22%24eq%22%3A%7B%22gmdata.input_files%22%3A%225a74a36432c87978b96baa10%22%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 16:56:23,231 - tool - DEBUG - Logging configured
+2019-08-26 16:56:23,231 - tool - DEBUG - Logging configured
+2019-08-26 16:56:23,234 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 16:56:23,270 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%7B%22gmdata.input_files%22%3A%225a74a36432c87978b96baa10%22%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 16:57:06,202 - tool - DEBUG - Logging configured
+2019-08-26 16:57:06,202 - tool - DEBUG - Logging configured
+2019-08-26 16:57:06,205 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 16:57:06,236 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%7Bgmdata.input_files%3A5a74a36432c87978b96baa10%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 16:57:28,486 - tool - DEBUG - Logging configured
+2019-08-26 16:57:28,486 - tool - DEBUG - Logging configured
+2019-08-26 16:57:28,490 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 16:57:28,525 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7Bgmdata.input_files%3A5a74a36432c87978b96baa10%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 17:06:33,940 - tool - DEBUG - Logging configured
+2019-08-26 17:06:33,940 - tool - DEBUG - Logging configured
+2019-08-26 17:06:33,944 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:06:33,979 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%7B%22gmdata.input_files%22%3A%7B%22%24size%22%3A2%7D%7D%2C%7B%22gmdata.output_files%22%3A%7B%22%24size%22%3A1%7D%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 17:06:44,110 - tool - DEBUG - Logging configured
+2019-08-26 17:06:44,110 - tool - DEBUG - Logging configured
+2019-08-26 17:06:44,114 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:06:44,145 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%7Bgmdata.input_files%3A%7B%3A2%7D%7D%2C%7Bgmdata.output_files%3A%7B%3A1%7D%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 17:07:04,715 - tool - DEBUG - Logging configured
+2019-08-26 17:07:04,715 - tool - DEBUG - Logging configured
+2019-08-26 17:07:04,719 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:07:04,758 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%5B%7Bgmdata.input_files%3A%7B%3A2%7D%7D%2C%7Bgmdata.output_files%3A%7B%3A1%7D%7D%5D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 17:07:22,497 - tool - DEBUG - Logging configured
+2019-08-26 17:07:22,497 - tool - DEBUG - Logging configured
+2019-08-26 17:07:22,501 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:07:22,535 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%5B%7Bgmdata.input_files%3A%7B%3A2%7D%7D%2C%7Bgmdata.output_files%3A%7B%3A12%7D%7D%5D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 17:07:35,347 - tool - DEBUG - Logging configured
+2019-08-26 17:07:35,347 - tool - DEBUG - Logging configured
+2019-08-26 17:07:35,351 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:07:35,383 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%7B%22gmdata.input_files%22%3A%7B%22%24size%22%3A2%7D%7D%2C%7B%22gmdata.output_files%22%3A%7B%22%24size%22%3A1%7D%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 17:08:02,542 - tool - DEBUG - Logging configured
+2019-08-26 17:08:02,542 - tool - DEBUG - Logging configured
+2019-08-26 17:08:02,546 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:08:02,581 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22%24and%22%3A%5B%7B%22gmdata.input_files%22%3A%7B%22%24exists%22%3Afalse%7D%7D%5D%7D%5D%7D HTTP/1.1" 200 7432
+2019-08-26 17:10:20,010 - tool - DEBUG - Logging configured
+2019-08-26 17:10:20,010 - tool - DEBUG - Logging configured
+2019-08-26 17:10:20,014 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:10:20,049 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%7B%22created%22%3A%7B%22%24gte%22%3A%22Thu%2C+01+Aug+2019+17%3A31%3A11+GMT%22%7D%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 17:10:46,599 - tool - DEBUG - Logging configured
+2019-08-26 17:10:46,599 - tool - DEBUG - Logging configured
+2019-08-26 17:10:46,603 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:10:46,637 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22created%22%3A%7B%22%24gte%22%3A%22Thu%2C+01+Aug+2019+17%3A31%3A11+GMT%22%7D%7D%5D%7D HTTP/1.1" 200 176
+2019-08-26 17:11:11,034 - tool - DEBUG - Logging configured
+2019-08-26 17:11:11,034 - tool - DEBUG - Logging configured
+2019-08-26 17:11:11,038 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:11:11,094 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22_created%22%3A%7B%22%24gte%22%3A%22Thu%2C+01+Aug+2019+17%3A31%3A11+GMT%22%7D%7D%5D%7D HTTP/1.1" 200 11511
+2019-08-26 17:14:20,633 - tool - DEBUG - Logging configured
+2019-08-26 17:14:20,633 - tool - DEBUG - Logging configured
+2019-08-26 17:14:20,637 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:14:20,718 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22gmdata.input_files%22%3A%7B%22%24size%22%3A2%7D%7D%5D%7D HTTP/1.1" 200 34762
+2019-08-26 17:14:20,764 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:14:20,840 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22$and%22:[%7B%22project%22:%20%22P1%22%7D,%7B%22gmdata.input_files%22:%7B%22$size%22:2%7D%7D]%7D&page=2 HTTP/1.1" 200 33003
+2019-08-26 17:14:20,846 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:14:20,881 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22$and%22:[%7B%22project%22:%20%22P1%22%7D,%7B%22gmdata.input_files%22:%7B%22$size%22:2%7D%7D]%7D&page=3 HTTP/1.1" 200 6949
+2019-08-26 17:15:31,949 - tool - DEBUG - Logging configured
+2019-08-26 17:15:31,949 - tool - DEBUG - Logging configured
+2019-08-26 17:15:31,953 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:15:31,986 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7Bgmdata.input_files%3A%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 17:16:00,946 - tool - DEBUG - Logging configured
+2019-08-26 17:16:00,946 - tool - DEBUG - Logging configured
+2019-08-26 17:16:00,950 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:16:00,990 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7Bgmdata.input_files%3A1_1.feb2v%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 17:16:26,596 - tool - DEBUG - Logging configured
+2019-08-26 17:16:26,596 - tool - DEBUG - Logging configured
+2019-08-26 17:16:26,600 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:16:26,638 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22gmdata.input_files%22%3A%221_1.feb2v%22%7D%5D%7D HTTP/1.1" 200 176
+2019-08-26 17:17:10,372 - tool - DEBUG - Logging configured
+2019-08-26 17:17:10,372 - tool - DEBUG - Logging configured
+2019-08-26 17:17:10,376 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:17:10,415 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22gmdata.input_files%22%3A%221_1.feb2v3%22%7D%5D%7D HTTP/1.1" 200 2846
+2019-08-26 17:17:49,046 - tool - DEBUG - Logging configured
+2019-08-26 17:17:49,046 - tool - DEBUG - Logging configured
+2019-08-26 17:17:49,050 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:17:49,133 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22%24and%22%3A%5B%7B%22creator%22%3A%22mjm%22%7D%5D%7D%5D%7D HTTP/1.1" 200 33509
+2019-08-26 17:17:49,165 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:17:49,237 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22$and%22:[%7B%22project%22:%20%22P1%22%7D,%7B%22$and%22:[%7B%22creator%22:%22mjm%22%7D]%7D]%7D&page=2 HTTP/1.1" 200 49359
+2019-08-26 17:17:49,244 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:17:49,329 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22$and%22:[%7B%22project%22:%20%22P1%22%7D,%7B%22$and%22:[%7B%22creator%22:%22mjm%22%7D]%7D]%7D&page=3 HTTP/1.1" 200 30907
+2019-08-26 17:17:49,335 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:17:49,393 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22$and%22:[%7B%22project%22:%20%22P1%22%7D,%7B%22$and%22:[%7B%22creator%22:%22mjm%22%7D]%7D]%7D&page=4 HTTP/1.1" 200 30750
+2019-08-26 17:17:49,398 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:17:49,472 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22$and%22:[%7B%22project%22:%20%22P1%22%7D,%7B%22$and%22:[%7B%22creator%22:%22mjm%22%7D]%7D]%7D&page=5 HTTP/1.1" 200 30794
+2019-08-26 17:17:49,477 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:17:49,552 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22$and%22:[%7B%22project%22:%20%22P1%22%7D,%7B%22$and%22:[%7B%22creator%22:%22mjm%22%7D]%7D]%7D&page=6 HTTP/1.1" 200 29104
+2019-08-26 17:17:49,557 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:17:49,599 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22$and%22:[%7B%22project%22:%20%22P1%22%7D,%7B%22$and%22:[%7B%22creator%22:%22mjm%22%7D]%7D]%7D&page=7 HTTP/1.1" 200 9166
+2019-08-26 17:18:08,262 - tool - DEBUG - Logging configured
+2019-08-26 17:18:08,263 - tool - DEBUG - Logging configured
+2019-08-26 17:18:08,266 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:18:08,317 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22gmdata.input_files%22%3A%7B%22%24exists%22%3Afalse%7D%7D%2C%7B%22gmdata.trial%22%3A%7B%22%24exists%22%3Atrue%7D%7D%5D%7D HTTP/1.1" 200 7457
+2019-08-26 17:20:50,733 - tool - DEBUG - Logging configured
+2019-08-26 17:20:50,733 - tool - DEBUG - Logging configured
+2019-08-26 17:20:50,737 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:20:50,770 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22gmdata.input_files%22%3A%7B%22%24exists%22%3Afalse%7D%7D%2C%7B%22gmdata.trial%22%3A%7B%22%24exists%22%3Atrue%7D%2C%22gmdata.output_files%22%3A%7B%22%24exists%22%3Atrue%7D%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 17:21:04,869 - tool - DEBUG - Logging configured
+2019-08-26 17:21:04,870 - tool - DEBUG - Logging configured
+2019-08-26 17:21:04,873 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:21:04,909 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22gmdata.input_files%22%3A%7B%22%24exists%22%3Afalse%7D%2C%7B%22gmdata.trial%22%3A%7B%22%24exists%22%3Atrue%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-08-26 17:21:10,474 - tool - DEBUG - Logging configured
+2019-08-26 17:21:10,474 - tool - DEBUG - Logging configured
+2019-08-26 17:21:10,478 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:21:10,524 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22gmdata.input_files%22%3A%7B%22%24exists%22%3Afalse%7D%7D%2C%7B%22gmdata.trial%22%3A%7B%22%24exists%22%3Atrue%7D%7D%5D%7D HTTP/1.1" 200 7457
+2019-08-26 17:21:45,539 - tool - DEBUG - Logging configured
+2019-08-26 17:21:45,539 - tool - DEBUG - Logging configured
+2019-08-26 17:21:45,543 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-08-26 17:21:45,575 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22gmdata.input_files%22%3A%7B%22%24exists%22%3Afalse%7D%7D%2C%7B%22gmdata.trial%22%3A%7B%22%24exists%22%3Atrue%7D%7D%2C%7B%22gmdata.output_files%22%3A%7B%22%24exists%22%3Atrue%7D%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-10-30 18:29:29,210 - tool - DEBUG - Logging configured
+2019-10-30 18:29:29,210 - tool - DEBUG - Logging configured
+2019-10-30 18:29:29,215 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-10-30 18:29:29,354 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5a33de6932c87931eac3404e HTTP/1.1" 200 3097
+2019-10-30 18:38:42,804 - tool - DEBUG - Logging configured
+2019-10-30 18:38:42,805 - tool - DEBUG - Logging configured
+2019-10-30 18:38:45,216 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-10-30 18:38:45,255 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%7B_id%3A5db9d7bfe1e0f6ba494db699%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-10-30 18:39:12,810 - tool - DEBUG - Logging configured
+2019-10-30 18:39:12,810 - tool - DEBUG - Logging configured
+2019-10-30 18:39:15,151 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-10-30 18:39:15,185 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B_id%3A5db9d7bfe1e0f6ba494db699%7D%5D%7D HTTP/1.1" 400 134
+2019-10-30 18:41:40,623 - tool - DEBUG - Logging configured
+2019-10-30 18:41:40,623 - tool - DEBUG - Logging configured
+2019-10-30 18:41:42,999 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-10-30 18:41:43,040 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%7B%22_id%22%3A5db9d7bfe1e0f6ba494db699%7D%7D%5D%7D HTTP/1.1" 400 134
+2019-10-30 18:44:35,215 - tool - DEBUG - Logging configured
+2019-10-30 18:44:35,215 - tool - DEBUG - Logging configured
+2019-10-30 18:44:37,712 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-10-30 18:44:37,762 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22%24and%22%3A%5B%7B%22gmdata.input_files%22%3A%7B%22%24exists%22%3Afalse%7D%7D%2C%7B%22gmdata.trial%22%3A%7B%22%24exists%22%3Atrue%7D%7D%2C%7B%22gmdata.tname%22%3A%0A%22MTNA+%22%7D%5D%7D%5D%7D HTTP/1.1" 200 176
+2019-10-30 18:45:17,103 - tool - DEBUG - Logging configured
+2019-10-30 18:45:17,103 - tool - DEBUG - Logging configured
+2019-10-30 18:45:19,464 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2019-10-30 18:45:19,505 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities?where=%7B%22%24and%22%3A%5B%7B%22project%22%3A+%22P1%22%7D%2C%7B%22%24and%22%3A%5B%7B%22gmdata.input_files%22%3A%7B%22%24exists%22%3Afalse%7D%7D%2C%7B%22gmdata.trial%22%3A%7B%22%24exists%22%3Atrue%7D%7D%2C%7B%22gmdata.tname%22%3A%0A%2231oct%22%7D%5D%7D%5D%7D HTTP/1.1" 200 1406
+2020-01-16 16:52:33,992 - tool - DEBUG - Logging configured
+2020-01-16 16:52:33,992 - tool - DEBUG - Logging configured
+2020-01-16 16:52:33,997 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 16:52:34,047 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 1368
+2020-01-16 16:52:34,054 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 16:52:34,130 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "PATCH /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 650
+2020-01-16 16:52:34,136 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 16:52:34,170 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 1471
+2020-01-16 17:43:48,715 - tool - DEBUG - Logging configured
+2020-01-16 17:43:48,715 - tool - DEBUG - Logging configured
+2020-01-16 17:43:48,719 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 17:43:48,790 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 1471
+2020-01-16 17:43:48,799 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 17:43:48,874 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "PATCH /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 650
+2020-01-16 17:43:48,882 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 17:43:48,919 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 1477
+2020-01-16 17:49:17,079 - tool - DEBUG - Logging configured
+2020-01-16 17:49:17,080 - tool - DEBUG - Logging configured
+2020-01-16 17:49:17,086 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 17:49:17,150 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 1477
+2020-01-16 17:49:17,158 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 17:49:17,214 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "PATCH /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 650
+2020-01-16 17:49:17,222 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 17:49:17,262 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 1477
+2020-01-16 17:51:25,610 - tool - DEBUG - Logging configured
+2020-01-16 17:51:25,611 - tool - DEBUG - Logging configured
+2020-01-16 17:51:25,615 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 17:51:25,679 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 1477
+2020-01-16 17:51:25,687 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 17:51:25,767 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "PATCH /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 650
+2020-01-16 17:51:25,775 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 17:51:25,810 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 1477
+2020-01-16 18:05:45,119 - tool - DEBUG - Logging configured
+2020-01-16 18:05:45,119 - tool - DEBUG - Logging configured
+2020-01-16 18:05:45,136 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 18:05:45,187 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 1477
+2020-01-16 18:06:06,793 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 18:06:06,853 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "PATCH /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 650
+2020-01-16 18:06:47,392 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 18:06:47,432 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 1477
+2020-01-16 18:08:35,950 - tool - DEBUG - Logging configured
+2020-01-16 18:08:35,951 - tool - DEBUG - Logging configured
+2020-01-16 18:08:35,967 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 18:08:36,005 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 1477
+2020-01-16 18:08:41,682 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 18:08:41,739 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "PATCH /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 650
+2020-01-16 18:08:41,762 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 18:08:41,800 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 1477
+2020-01-16 18:14:01,334 - tool - DEBUG - Logging configured
+2020-01-16 18:14:01,334 - tool - DEBUG - Logging configured
+2020-01-16 18:14:01,339 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 18:14:01,399 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 1477
+2020-01-16 18:14:01,407 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 18:14:01,478 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "PATCH /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 650
+2020-01-16 18:14:01,485 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 18:14:01,515 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 1477
+2020-01-16 18:21:40,463 - tool - DEBUG - Logging configured
+2020-01-16 18:21:40,463 - tool - DEBUG - Logging configured
+2020-01-16 18:21:40,468 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 18:21:40,530 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 1477
+2020-01-16 18:21:40,536 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 18:22:40,604 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "PATCH /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 502 469
+2020-01-16 18:22:40,611 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 18:22:40,648 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 1477
+2020-01-16 18:28:03,195 - tool - DEBUG - Logging configured
+2020-01-16 18:28:03,195 - tool - DEBUG - Logging configured
+2020-01-16 18:28:03,199 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 18:28:03,241 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 1477
+2020-01-16 18:28:03,248 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 18:28:59,212 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "PATCH /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 412 93
+2020-01-16 18:28:59,220 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-01-16 18:28:59,255 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/activities/5e2082481dcd3179530b3cb2 HTTP/1.1" 200 1493
+2020-02-21 12:44:40,727 - tool - DEBUG - Logging configured
+2020-02-21 12:44:40,727 - tool - DEBUG - Logging configured
+2020-02-21 12:44:40,732 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-02-21 12:44:42,419 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "POST /geosmeta/activities HTTP/1.1" 201 412
+2020-02-21 14:00:28,054 - tool - DEBUG - Logging configured
+2020-02-21 14:00:28,055 - tool - DEBUG - Logging configured
+2020-02-21 14:00:28,059 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-02-21 14:19:24,288 - tool - DEBUG - Logging configured
+2020-02-21 14:19:24,289 - tool - DEBUG - Logging configured
+2020-02-21 14:19:24,292 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-02-21 14:19:34,583 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "POST /geosmeta/activities HTTP/1.1" 422 353
+2020-02-21 14:20:53,459 - tool - DEBUG - Logging configured
+2020-02-21 14:20:53,459 - tool - DEBUG - Logging configured
+2020-02-21 14:20:53,463 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-02-21 14:21:53,551 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "POST /geosmeta/activities HTTP/1.1" 502 418
+2020-02-21 14:28:37,902 - tool - DEBUG - Logging configured
+2020-02-21 14:28:37,902 - tool - DEBUG - Logging configured
+2020-02-21 14:28:37,906 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-02-21 14:28:57,686 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "POST /geosmeta/activities HTTP/1.1" 422 353
+2020-02-21 14:37:36,999 - tool - DEBUG - Logging configured
+2020-02-21 14:37:36,999 - tool - DEBUG - Logging configured
+2020-02-21 14:37:37,006 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-02-21 14:37:40,193 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "POST /geosmeta/activities HTTP/1.1" 422 359
+2020-02-21 14:44:12,056 - tool - DEBUG - Logging configured
+2020-02-21 14:44:12,057 - tool - DEBUG - Logging configured
+2020-02-21 14:44:12,061 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-02-21 14:44:15,765 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "POST /geosmeta/activities HTTP/1.1" 500 290
+2020-02-21 14:53:02,295 - tool - DEBUG - Logging configured
+2020-02-21 14:53:02,295 - tool - DEBUG - Logging configured
+2020-02-21 14:53:02,299 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-02-21 14:53:04,799 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "POST /geosmeta/activities HTTP/1.1" 201 412
+2020-02-21 15:04:17,093 - tool - DEBUG - Logging configured
+2020-02-21 15:04:17,093 - tool - DEBUG - Logging configured
+2020-02-21 15:04:17,097 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-02-21 15:04:22,141 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "POST /geosmeta/activities HTTP/1.1" 500 290
+2020-02-21 15:05:52,439 - tool - DEBUG - Logging configured
+2020-02-21 15:05:52,440 - tool - DEBUG - Logging configured
+2020-02-21 15:05:52,444 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-02-21 15:05:55,444 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "POST /geosmeta/activities HTTP/1.1" 422 198
+2020-02-21 15:06:47,657 - tool - DEBUG - Logging configured
+2020-02-21 15:06:47,657 - tool - DEBUG - Logging configured
+2020-02-21 15:06:47,661 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-02-21 15:06:52,344 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "POST /geosmeta/activities HTTP/1.1" 500 290
+2020-02-21 15:10:17,344 - tool - DEBUG - Logging configured
+2020-02-21 15:10:17,344 - tool - DEBUG - Logging configured
+2020-02-21 15:10:17,348 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-02-21 15:10:20,470 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "POST /geosmeta/activities HTTP/1.1" 422 198
+2020-02-21 15:20:42,329 - tool - DEBUG - Logging configured
+2020-02-21 15:20:42,329 - tool - DEBUG - Logging configured
+2020-02-21 15:20:42,333 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-02-21 15:20:44,940 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "POST /geosmeta/activities HTTP/1.1" 422 198
+2020-02-21 15:23:37,308 - tool - DEBUG - Logging configured
+2020-02-21 15:23:37,308 - tool - DEBUG - Logging configured
+2020-02-21 15:23:37,311 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-02-21 15:23:40,931 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "POST /geosmeta/activities HTTP/1.1" 422 198
+2020-02-21 15:36:51,157 - tool - DEBUG - Logging configured
+2020-02-21 15:36:51,157 - tool - DEBUG - Logging configured
+2020-02-21 15:36:51,161 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-02-21 15:36:53,025 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "POST /geosmeta/activities HTTP/1.1" 201 412
+2020-02-21 15:40:38,911 - tool - DEBUG - Logging configured
+2020-02-21 15:40:38,911 - tool - DEBUG - Logging configured
+2020-02-21 15:40:38,915 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-02-21 15:40:42,623 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "POST /geosmeta/activities HTTP/1.1" 201 412
+2020-04-16 16:19:09,093 - tool - DEBUG - Logging configured
+2020-04-16 16:19:09,094 - tool - DEBUG - Logging configured
+2020-04-16 16:19:09,100 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-04-16 16:19:09,222 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/projects/P1 HTTP/1.1" 200 540
+2020-04-16 16:19:42,666 - tool - DEBUG - Logging configured
+2020-04-16 16:19:42,666 - tool - DEBUG - Logging configured
+2020-04-16 16:19:42,671 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-04-16 16:19:42,720 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/projects/P1 HTTP/1.1" 200 540
+2020-04-16 16:28:06,696 - tool - DEBUG - Logging configured
+2020-04-16 16:28:06,696 - tool - DEBUG - Logging configured
+2020-04-16 16:28:06,702 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-04-16 16:28:06,751 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/projects/P1 HTTP/1.1" 200 540
+2020-04-16 16:28:19,061 - tool - DEBUG - Logging configured
+2020-04-16 16:28:19,061 - tool - DEBUG - Logging configured
+2020-04-16 16:28:19,066 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-04-16 16:28:19,104 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/projects/P1 HTTP/1.1" 200 540
+2020-04-16 16:28:19,114 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-04-16 16:28:19,152 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/project_roles/P1 HTTP/1.1" 200 454
+2020-04-16 16:29:53,755 - tool - DEBUG - Logging configured
+2020-04-16 16:29:53,755 - tool - DEBUG - Logging configured
+2020-04-16 16:29:53,761 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-04-16 16:29:53,799 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/projects/P1 HTTP/1.1" 200 540
+2020-04-16 16:29:53,811 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-04-16 16:29:53,840 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "GET /geosmeta/project_roles/P1 HTTP/1.1" 200 454
+2020-04-17 12:04:02,395 - tool - DEBUG - Logging configured
+2020-04-17 12:04:02,395 - tool - DEBUG - Logging configured
+2020-04-17 12:04:02,402 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.geos.ed.ac.uk:443
+2020-04-17 12:04:02,447 - urllib3.connectionpool - DEBUG - https://www.geos.ed.ac.uk:443 "POST /geosmeta/accounts HTTP/1.1" 405 106
