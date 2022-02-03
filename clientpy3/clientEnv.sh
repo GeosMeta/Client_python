@@ -28,10 +28,10 @@ elif [[ $HOSTNAME == *"ceda"* ]]
 then
    echo jasmin
    GMTOP=/home/users/mmineter/geosmetaclient
-elif [[ $HOSTNAME == "eslogin"* ]]
+elif [[ $HOSTNAME == "ln"* ]]
 then
-   echo archer login node
-   GMTOP=/home2/n02/n02/mjm/geosmetaclient
+   echo archer2 login node
+   GMTOP=/work/n02/shared/mjmn02/geosmeta/GeosMetaClient_python/clientpy3
 fi
 
 export PYTHONPATH=$PYTHONPATH:$GMTOP:$GMTOP/geosmeta

@@ -70,7 +70,8 @@ class TestGeosMeta(TestGeosMetaBase):
            try:
               gmfileRes=self.gm.getDoc('F',project_id, gmfile)
            except:
-               import pdb;pdb.set_trace()
+               print("failed getting %s"%gmfile)
+#               import pdb;pdb.set_trace()
                
            self.check( gmfileRes['_id'] ==gmfile, 
                "retrieved output_file_doc with  _id %s "%(gmfile))
@@ -194,7 +195,7 @@ class TestGeosMeta(TestGeosMetaBase):
       bdict['output_files']=[['2_1.%s'%self.testFlag, None]]
       try:
             project_id=None # it comes from the geosmeta.cfg file
-            import pdb;pdb.set_trace()
+#            import pdb;pdb.set_trace()
             bres = self.gm.addDoc(project_id,bdict)
       except Exception as err:
             sys.stderr.write('Error creating gmDoc:\n')
