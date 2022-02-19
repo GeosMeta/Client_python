@@ -37,11 +37,11 @@ class GeosMetaConfig(object):
         try:
             self.readConfigFile()
         except IOError as err:
-            sys.stderr.write('Error reading file: %s \n'%configFilePath)
+            sys.stderr.write('Error reading file: %s \n'%self.configFilePath)
             sys.stderr.write('%s\n' % str(err))
             sys.exit(1)
         except Exception as err:
-            sys.stderr.write('Error processing configuration file:i %s\n'%configFilePath)
+            sys.stderr.write('Error processing configuration file:i %s\n'%self.configFilePath)
             sys.stderr.write('%s\n' % str(err))
             sys.exit(1)
 
