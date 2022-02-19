@@ -32,6 +32,11 @@ elif [[ $HOSTNAME == "ln"* ]]
 then
    echo archer2 login node
    GMTOP=/work/n02/shared/mjmn02/geosmeta/GeosMetaClient_python/clientpy3
+ elif [[ $HOSTNAME == "puma"* ]]
+ then
+    echo PUMAtest
+    GMTOP=/home/mjm/dev/GeosMetaClient_python/clientpy3
+    export PATH=/home/mjm/miniconda2/py3/bin:$PATH
 else
    echo $HOSTNAME  archer2 serial node?
    GMTOP=/work/n02/shared/mjmn02/geosmeta/GeosMetaClient_python/clientpy3
