@@ -56,7 +56,7 @@ class GeosMetaConfig(object):
         if os.path.isfile(self.configFilePath):
             config.read(self.configFilePath)
         else:
-            raise RuntimeError('no configuration file found')
+            raise RuntimeError('no GeosMeta configuration file found')
 
         # let local file overrride usual one
 

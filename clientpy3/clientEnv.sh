@@ -32,9 +32,8 @@ elif [[ $HOSTNAME == "ln"* ]]
 then
    echo archer2 login node
    GMTOP=/work/n02/shared/mjmn02/geosmeta/GeosMetaClient_python/clientpy3
-elif [[ $HOSTNAME == "dn"* ]]
-then
-   echo archer2 serial node
+else
+   echo $HOSTNAME  archer2 serial node?
    GMTOP=/work/n02/shared/mjmn02/geosmeta/GeosMetaClient_python/clientpy3
 fi
 
