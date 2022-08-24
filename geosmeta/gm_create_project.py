@@ -3,10 +3,11 @@
 # Copyright (c) The University of Edinburgh, 2014.
 #
 import argparse
-from geosmeta import GeosMETA
+from .api import GeosMETA
 import sys
 
-if __name__ == '__main__':
+
+def main():
     # Get command line arguments
     parser = argparse.ArgumentParser(description="Add a project to the GeosMeta system")
     parser.add_argument('--project_id',
@@ -51,3 +52,7 @@ if __name__ == '__main__':
     #else:
         #sys.stdout.write('Not creating Project\n')
         #sys.exit(0)
+
+
+if __name__ == '__main__':
+    main()

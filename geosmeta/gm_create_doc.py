@@ -2,7 +2,7 @@
 #
 # Copyright (c) The University of Edinburgh, 2014.
 #
-from geosmeta import GeosMETA
+from .api import GeosMETA
 import argparse
 import sys
 import json
@@ -49,7 +49,7 @@ def testAddDocFromDict(project_id, configFile):
 
     
 
-if __name__ == '__main__':
+def main():
     # Get command line arguments
     desc="""Uploads a gmDoc using the GeosMeta system - 
             usually used if a json file exists; 
@@ -113,3 +113,6 @@ if __name__ == '__main__':
        #sys.stdout.write('\n exit successfully\n')
         sys.exit(0)
   
+
+if __name__ == '__main__':
+    main()

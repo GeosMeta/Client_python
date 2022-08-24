@@ -3,8 +3,7 @@
 # Copyright (c) The University of Edinburgh, 2015.
 #
 import sys
-from geosmeta import GeosMETA
-from geosmeta import util
+from .api import GeosMETA
 import argparse
 import json
 import copy
@@ -16,8 +15,8 @@ from matplotlib.backends.backend_wxagg import \
 FigureCanvasWxAgg as FigCanvas, \
 NavigationToolbar2WxAgg as NavigationToolbar
 
-import AnnotateFinder 
-import MakeFrame
+from . import AnnotateFinder 
+from . import MakeFrame
 
 class  afWithPop(AnnotateFinder.AnnoteFinder):
     def __init__(self, xdata, ydata, annotes,nodeHasID, gm, axis=None,
@@ -199,8 +198,9 @@ class gmTreeNetworkFrame(wx.Frame):
             sys.stderr.write('%s\n' % str(err))
             sys.stderr.write('Error adding %s to graph data structures:\n'%(aDoc['_id']))
             sys.exit(1) # beware continuing if lists might not be in sync.
-    
-if __name__ == '__main__':
+
+
+def main():
 
          # Get command line arguments
     parser = argparse.ArgumentParser(description=\
@@ -263,3 +263,5 @@ if __name__ == '__main__':
             sys.exit(1)
 
         
+if __name__ == '__main__':
+    main()

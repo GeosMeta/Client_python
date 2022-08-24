@@ -2,12 +2,13 @@
 #
 # Copyright (c) The University of Edinburgh, 2014.
 #
-from geosmeta import GeosMETA
+from .api import GeosMETA
 import argparse
 import sys
 import json
 
-if __name__ == '__main__':
+
+def main():
     # Get command line arguments
     parser = argparse.ArgumentParser(description= \
              """"Changes the status field of the gmDoc, and optionally 
@@ -92,3 +93,6 @@ https://readthedocs.org/projects/eve/downloads/pdf/latest/, 5.3.32, pg 22
                                             sort_keys=True))
             sys.exit(0)
 
+
+if __name__ == '__main__':
+    main()

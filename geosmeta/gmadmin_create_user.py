@@ -2,13 +2,14 @@
 #
 # Copyright (c) The University of Edinburgh, 2014.
 #
-from geosmeta import GeosMETA
+from .api import GeosMETA
 from geosmeta import util
 import argparse
 import sys
 import uuid
 
-if __name__ == '__main__':
+
+def main():
     # Get command line arguments
     parser = argparse.ArgumentParser(description="Add a user to the GeosMeta system")
     parser.add_argument('--firstname',
@@ -78,3 +79,7 @@ if __name__ == '__main__':
     else:
         sys.stdout.write('Not creating user\n')
         sys.exit(0)
+
+
+if __name__ == '__main__':
+    main()

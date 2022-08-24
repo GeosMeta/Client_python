@@ -2,13 +2,13 @@
 #
 # Copyright (c) The University of Edinburgh, 2014.
 #
-from geosmeta import GeosMETA
-from geosmeta  import util
+from .api import GeosMETA
 import argparse
 import sys
 import json
 
-if __name__ == '__main__':
+
+def main():
     # Get command line arguments
     parser = argparse.ArgumentParser(description= \
                 """Get gmDoc(s) from the GeosMeta system: 
@@ -96,3 +96,7 @@ if __name__ == '__main__':
            except Exception as err:
                          sys.stderr.write('next page error %s\n' % str(err))
          sys.stdout.write('The end\n' )
+
+
+if __name__ == '__main__':
+    main()

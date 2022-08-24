@@ -2,13 +2,14 @@
 #
 # Copyright (c) The University of Edinburgh, 2014.
 #
-from geosmeta import GeosMETA
-from geosmeta import util
+from .api import GeosMETA
+from .util import queryYesNo
 import argparse
 import sys
 import json
 
-if __name__ == '__main__':
+
+def main():
     # Get command line arguments
     parser = argparse.ArgumentParser(description="Get research group details from the GeosMeta system")
     parser.add_argument('--researchgroup',
@@ -29,7 +30,7 @@ if __name__ == '__main__':
     else:
         question = "Get all research groups?"
 
-    response = util.queryYesNo(question)
+    response = queryYesNo(question)
 
     if (response):
         # Get research group details
@@ -49,3 +50,7 @@ if __name__ == '__main__':
     else:
         sys.stdout.write('Not getting reseach group details details\n')
         sys.exit(0)
+
+
+if __name__ == '__main__':
+    main()

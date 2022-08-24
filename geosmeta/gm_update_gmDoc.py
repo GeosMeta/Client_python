@@ -2,12 +2,13 @@
 #
 # Copyright (c) The University of Edinburgh, 2014.
 #
-from geosmeta import GeosMETA
+from .api import GeosMETA
 import argparse
 import sys
 import json
 
-if __name__ == '__main__':
+
+def main():
     # Get command line arguments
     parser = argparse.ArgumentParser(description= \
          """ For gmDoc specified by its id, creates/updates a single field""")
@@ -71,3 +72,6 @@ ingle value, or a dict in quotes""")
         sys.stdout.write('Not updating the activity\n')
         sys.exit(0)
 
+
+if __name__ == '__main__':
+    main()

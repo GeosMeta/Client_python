@@ -2,13 +2,13 @@
 #
 # Copyright (c) The University of Edinburgh, 2014.
 #
-from geosmeta import GeosMETA
-from geosmeta import util
+from .api import GeosMETA
 import argparse
 import sys
 import json
 
-if __name__ == '__main__':
+
+def main():
     # Get command line arguments
     parser = argparse.ArgumentParser(description="Get project details from the GeosMeta system")
     parser.add_argument('--project',
@@ -66,3 +66,7 @@ if __name__ == '__main__':
                                             sort_keys=True))
 
         sys.exit(0)
+
+
+if __name__ == '__main__':
+    main()
