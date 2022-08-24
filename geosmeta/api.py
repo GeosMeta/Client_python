@@ -1,8 +1,8 @@
 # Copyright (c) The University of Edinburgh, 2014.
 #
-import tool
+from . import tool
 import json
-import util
+from . import util
 import requests
 
 __all__ = ['GeosMETA']

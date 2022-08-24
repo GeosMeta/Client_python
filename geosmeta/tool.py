@@ -4,7 +4,7 @@ import requests
 from hashlib import sha1
 import hmac
 import sys
-import util
+from . import util
 import json
 
 class HMACAuth(requests.auth.AuthBase):

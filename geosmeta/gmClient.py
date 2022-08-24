@@ -9,7 +9,7 @@ import getpass,socket
 import time
 import argparse
 import os
-from api import GeosMETA
+from .api import GeosMETA
 
 # create a standard argument parser
 defaultCfgFile='~/.geosmeta/geosmeta.cfg'
